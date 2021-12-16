@@ -1,3 +1,0 @@
-C:/Users/marek/CLionProjects/SymulacjaSwiata/cmake-build-debug/CMakeFiles/SymulacjaSwiata.dir
-C:/Users/marek/CLionProjects/SymulacjaSwiata/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/marek/CLionProjects/SymulacjaSwiata/cmake-build-debug/CMakeFiles/rebuild_cache.dir
